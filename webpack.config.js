@@ -6,8 +6,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'iview-area.js',
-    library: 'iviewArea',
+    filename: 'iview-distpicker.js',
+    library: 'distpicker',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
